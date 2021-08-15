@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Marcin - IT Student and Junior Java Developer
+## 👋 Hi, I’m Marcin - Computer Sience Student and Junior Java Software Developer / Engineer
 
 - 👀 I’m interested in computer games, motorization, sports and technology.
-- 🌱 I’m currently learning programming in JAVA but in the future I want to learn other languages like Python, C ++, JavaScript
+- 🌱 I’m currently programming in Java but in the future I want to learn other languages like Python, C ++, JavaScript.
 
 ## Get in touch 📫
 - E-mail: marcin.beda@wp.pl
